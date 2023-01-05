@@ -22,13 +22,13 @@ The goal of an online cab booking system is to bring riders and drivers together
 
 # User should  be able to perform below operations:  
 
-- Search functionality
-- Search by category
-- Add to cart
-- See cart details and total price in it
-- Make a purchase, and track status
-- Payment ,Checkout pages
-- Login, Register Pages 
+- Login, Register Pages
+- Can see all available cabs
+- Book trip
+- Cancel trip
+- Marks journey as completed with payment features
+- Update details
+- Logout
 
 ## Admin Module
 
