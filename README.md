@@ -20,26 +20,26 @@ The goal of an online cab booking system is to bring riders and drivers together
 
 ## Customer Module
 
-# User should  be able to perform below operations:  
+# Customer should  be able to perform below operations:  
 
-- Login, Register Pages
+- Register Pages, Login 
 - Can see all available cabs
 - Book trip
 - Cancel trip
 - Marks journey as completed with payment features
 - Update details
+- Delete customer details from database
 - Logout
 
-## Admin Module
+## Driver Module
 
-# Admin should be able to perform below operations:
+# Driver should be able to perform below operations:
 
-- Product List
-- Add new products
-- Update Products
-- User management
-- See users, and details
-- admin and users ( different login )
+- Register Pages, Login
+- Updates status for availability, driver is online or not
+- Update driver details
+- Delete driver details from database;
+- Logout
 
 ### Features
 
