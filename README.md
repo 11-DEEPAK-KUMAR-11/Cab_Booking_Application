@@ -68,21 +68,29 @@ The goal of an online cab booking system is to bring riders and drivers together
 
 ### Sample API Response for Customer Login
 
-`POST localhost:8089/admin/login`
+`POST localhost:8889/customer/login`
 
 - Request Body
 
 ```
 	{
-  		"adminId": 1,
-  		"password": "qwerty123"
+  		"mobile": "string",
+                "password": "string"
 	}
 ```
 
 - Response
 
 ```
-   CurrentAdminSession(userId=2, uuid=WcEy8Z, localDateTime=2022-11-30T16:01:29.137960400)
+- Customer current session
+   {
+	  "sessionId": 2,
+	  "userId": 1,
+	  "uuid": "8e4f35ff",
+	  "userType": "Customer",
+	  "sessionStartTime": "2023-01-05T21:08:35.8395149",
+	  "sessionEndTime": "2023-01-05T22:08:35.8395149"
+  }
 
 ```
 
