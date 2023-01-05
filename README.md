@@ -53,6 +53,13 @@ The goal of an online cab booking system is to bring riders and drivers together
     spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
     spring.datasource.username=root
     spring.datasource.password=3511
+    
+    #ORM s/w specific properties
+    spring.jpa.hibernate.ddl-auto=update
+    spring.jpa.show-sql=true
+
+    spring.mvc.pathmatch.matching-strategy = ANT_PATH_MATCHER
+
 
 ```
 
