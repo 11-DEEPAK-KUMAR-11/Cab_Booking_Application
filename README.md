@@ -41,23 +41,6 @@ The goal of an online cab booking system is to bring riders and drivers together
 - Delete driver details from database;
 - Logout
 
-### Features
-
-## Authentication and validation for customer and admin using the session uuid.
-
-# Admin Features :
-
-  - Role of the entire application's administrator.
-  - Only logged-in admin with active session tokens can add, update, or delete customers, products and orders from the main database.
-  - The admin has access to information on various customers, products and orders, etc.
-
-# Customer Features :
-
-  - On the platform, a customer can register and update their details.
-  - Customer can add the product to the cart.
-  - After adding the product to a cart, he can buy a product.  
-  - The customer has the option to remove the product from the cart.
-
 ## Installation & Run
 
 - You need update the database configuration in the [application.properties](https://github.com/rajshekar11/dangerous-smash-6971/blob/main/TripMaker/src/main/resources/application.properties) file before launching the API server.
@@ -66,7 +49,7 @@ The goal of an online cab booking system is to bring riders and drivers together
 ```
     server.port=8889
 
-    spring.datasource.url=jdbc:mysql://localhost:3306/shopEasy;
+    spring.datasource.url=jdbc:mysql://localhost:3306/cabbooking_app;
     spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
     spring.datasource.username=root
     spring.datasource.password=3511
