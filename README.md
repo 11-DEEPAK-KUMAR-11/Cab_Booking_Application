@@ -94,48 +94,15 @@ The goal of an online cab booking system is to bring riders and drivers together
 
 ```
 
+### Customer Module
+
+![Screenshot (1720)](https://user-images.githubusercontent.com/101390725/210823236-5975a29c-341e-4f38-8a06-45dc829f2aab.png)
+
+
 ## Video Explainer of flow control
 
 <a href="https://drive.google.com/file/d/1Rd4X7QPTFs5r3PWmyLEfo6529FRw_oXs/view?usp=sharing">**Video Drive Link** </a> 
 
-
-### Swagger UI
-
----
-
-![1](https://user-images.githubusercontent.com/36689521/204775957-97b0b6e9-7eac-4a52-8dec-3036bcf922e0.png)
-
----
-
-### Admin Controller
-
----
-
-![2](https://user-images.githubusercontent.com/36689521/204776180-c20e7aae-af75-400a-be59-e12c2947d5c4.png)
-
----
-
-### Customer Controller
-
----
-
-![3](https://user-images.githubusercontent.com/36689521/204776471-93b31bcc-37bf-444e-9223-991c3206c8e5.png)
-
----
-
-### Order Controller
-
----
-
-![4](https://user-images.githubusercontent.com/36689521/204776721-dcadef7a-8b84-4839-8f51-12cdf8c29928.png)
-
----
-
-### Product Controller
-
----
-
-![5](https://user-images.githubusercontent.com/36689521/204778140-2bf511b3-37a5-4739-9f2f-86cffc63aa2d.png)
 
 ---
 
