@@ -101,7 +101,7 @@ The goal of an online cab booking system is to bring riders and drivers together
 
 ```
 
-### Customer Module
+### Driver Module
 
 ![Screenshot (1720)](https://user-images.githubusercontent.com/101390725/210823236-5975a29c-341e-4f38-8a06-45dc829f2aab.png)
 
