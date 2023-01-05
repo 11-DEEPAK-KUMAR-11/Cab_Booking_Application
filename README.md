@@ -98,15 +98,6 @@ The goal of an online cab booking system is to bring riders and drivers together
 
 <a href="https://drive.google.com/file/d/1Rd4X7QPTFs5r3PWmyLEfo6529FRw_oXs/view?usp=sharing">**Video Drive Link** </a> 
 
-### E-R Diagram Of Ecommerce API
-
----
-
-<!-- ![E-R Diagram](https://user-images.githubusercontent.com/36689521/204775807-af1af7f7-e7a4-4cf5-ba44-f8d145512229.png) -->
-![ER-3](https://user-images.githubusercontent.com/101390725/204780741-7c8f1719-aef2-487e-b71c-47bfb03473c1.png)
-
-
----
 
 ### Swagger UI
 
